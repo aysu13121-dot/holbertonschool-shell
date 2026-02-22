@@ -1,1 +1,1 @@
-# Shell, I/O Redirections and Filters
+7-file: creates a file with a special name containing "Best School"
